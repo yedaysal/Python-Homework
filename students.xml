@@ -1,0 +1,27 @@
+<students>
+  <student id="100098726">
+    <name>Joe Average</name>
+    <age>21</age>
+    <gpa>3.21</gpa>
+  </student>
+  <student id="100670269">
+    <name>James Best</name>
+    <age>23</age>
+    <gpa>2.29</gpa>
+  </student>
+  <student id="9100026578">
+    <name>Harry Neil Goodman</name>
+    <age>19</age>
+    <gpa>3.77</gpa>
+  </student>
+  <student id="190009926">
+    <name>Jane Average</name>
+    <age>23</age>
+    <gpa>3.90</gpa>
+  </student>
+  <student id="108700296">
+    <name>Leon Jr. August</name>
+    <age>18</age>
+    <gpa>1.93</gpa>
+  </student>
+</students>
